@@ -1,0 +1,11 @@
+{
+    "data":{
+        "name":"",
+        "email":"",
+        "phone":"",
+        "short_summery":"",
+        "resume_score":"",
+        "resume_mistake":"",
+        "how_to_improve":""
+    }
+}
